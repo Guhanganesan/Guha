@@ -4,6 +4,7 @@ class User
     public $name;// class variables, 
 	//access modifier "public"(variable can be accessed from outside the class).
     public $age;
+	public $dob;
     
     public function Describe()// to access something from the object used before the operator. 
     {
